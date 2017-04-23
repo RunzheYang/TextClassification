@@ -5,7 +5,7 @@ In this coursework, I implemented various advanced neural network architectures 
 
 ## Hierarchical Neural Model
 In this coursework, I design a hierarchical neural model, which is shown below.
-![](tex/figures/model.pdf)
+![](tex/figures/model_.png)
 For detailed information and evaluation, see my final report [here](tex/5140309562_RunzheYang.pdf).
 
 ## Environment
