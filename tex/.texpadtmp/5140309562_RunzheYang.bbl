@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{Wang:2015ts}
+P.~Wang, J.~Xu, B.~Xu, C.-L. Liu, H.~Zhang, F.~Wang, and H.~Hao.
+\newblock {Semantic Clustering and Convolutional Neural Network for Short Text
+  Categorization.}
+\newblock {\em ACL}, 2015.
+
+\bibitem{Zhang:2015vu}
+X.~Zhang, J.~Zhao, and Y.~LeCun.
+\newblock {Character-level Convolutional Networks for Text Classification}.
+\newblock {\em arXiv.org}, Sept. 2015.
+
+\bibitem{Zhang:2015tp}
+Y.~Zhang and B.~C. Wallace.
+\newblock {A Sensitivity Analysis of (and Practitioners' Guide to)
+  Convolutional Neural Networks for Sentence Classification.}
+\newblock {\em CoRR}, 2015.
+
+\end{thebibliography}
