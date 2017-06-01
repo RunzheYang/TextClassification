@@ -13,5 +13,5 @@ I ran experiments on my PC.
 - Operating System: CentOS Linux release 7.3.1611 (Core)
 - CPU: Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz
 - No GPU
-- Total Memory: 16142596 kB
+- Total Memory: 16142596 kB. 
 The code is in Python 2.7 and I implemented neural networks with [PyTorch](http://pytorch.org).
